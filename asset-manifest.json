@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.7b80bc3a.chunk.css",
-    "main.js": "/myapp/static/js/main.ad8011c1.chunk.js",
-    "main.js.map": "/myapp/static/js/main.ad8011c1.chunk.js.map",
-    "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
-    "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
-    "static/js/2.4e81ba5b.chunk.js": "/myapp/static/js/2.4e81ba5b.chunk.js",
-    "static/js/2.4e81ba5b.chunk.js.map": "/myapp/static/js/2.4e81ba5b.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.64b6d05ab283daf6c55bb8b338011764.js": "/myapp/precache-manifest.64b6d05ab283daf6c55bb8b338011764.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/main.7b80bc3a.chunk.css.map": "/myapp/static/css/main.7b80bc3a.chunk.css.map"
+    "main.css": "/react_airport/static/css/main.7b80bc3a.chunk.css",
+    "main.js": "/react_airport/static/js/main.df1d0b6d.chunk.js",
+    "main.js.map": "/react_airport/static/js/main.df1d0b6d.chunk.js.map",
+    "runtime~main.js": "/react_airport/static/js/runtime~main.037fa8df.js",
+    "runtime~main.js.map": "/react_airport/static/js/runtime~main.037fa8df.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/react_airport/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/react_airport/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/react_airport/index.html",
+    "precache-manifest.c5e524f6b274af127aedc8ba8ecc977f.js": "/react_airport/precache-manifest.c5e524f6b274af127aedc8ba8ecc977f.js",
+    "service-worker.js": "/react_airport/service-worker.js",
+    "static/css/main.7b80bc3a.chunk.css.map": "/react_airport/static/css/main.7b80bc3a.chunk.css.map"
   }
 }
