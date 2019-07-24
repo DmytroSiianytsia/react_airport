@@ -1,0 +1,22 @@
+.row:nth-child(odd) {
+  background-color: #e6f0f3;
+}
+
+.row:nth-child(even) {
+  background-color: #fff;
+}
+
+.row:hover {
+  box-shadow: 0 -7px 7px lightgrey ;
+}
+
+.airlineLogo {
+  width: 64px;
+  height: 38px;
+  margin: 10px;
+}
+
+.airline {
+  display: flex;
+  justify-content: center;
+}
