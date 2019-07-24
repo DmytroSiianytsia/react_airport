@@ -1,0 +1,31 @@
+body {
+  height: 100%;
+  background-color: #e7efec;
+}
+
+.header {
+  position: fixed;
+  margin-top: -200px;
+  width: 100%;
+  z-index: 9999;
+  display: flex;
+  background-color: #1eb7ee;
+  height: 92px;
+  justify-content: space-between;
+  box-shadow: 0 5px 10px rgba(37,40,41,.3);
+}
+
+.logo {
+  margin: 12px 0 13px 119px;
+  height: 68px;
+}
+
+.navBar {
+  display: flex;
+  margin-top: 30px;
+  margin-right: 20px;
+  width: 680px;
+  justify-content: space-between;
+  color: #fff;
+  font-size: 21px;
+}
